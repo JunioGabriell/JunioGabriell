@@ -63,8 +63,12 @@ Sistema de logística em microsserviços com autenticação JWT, Apache Kafka, M
 ## Estatísticas
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JunioGabriell&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunioGabriell&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JunioGabriell&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunioGabriell&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JunioGabriell&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
